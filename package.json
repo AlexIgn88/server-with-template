@@ -8,7 +8,7 @@
     "dev": "node serv.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alex",
   "license": "ISC",
   "dependencies": {
     "pug": "^3.0.2"
